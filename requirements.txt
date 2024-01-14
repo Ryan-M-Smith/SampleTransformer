@@ -1,0 +1,4 @@
+keras
+spacy[cuda11x,transformers,lookups]
+tensorflow
+textblob
